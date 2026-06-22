@@ -176,6 +176,17 @@ Simple, focused, and action-oriented interface.
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
+### Risk Simulator
+![Risk Simulator](assets/risk-simulator.png)
+
+### Recovery Center
+![Recovery Center](assets/recovery-center.png)
+
 ## 👨‍💻 Author
 
 Dhaneja Johan
